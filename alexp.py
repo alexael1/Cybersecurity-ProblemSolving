@@ -17,3 +17,10 @@ print("Your fare is £",fare)
 asdsa gjhusduashdu
 
 sadkmaskmd
+
+ASdasd
+asdasda
+
+sadsa
+das
+
